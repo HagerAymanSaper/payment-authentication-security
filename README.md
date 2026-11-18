@@ -117,6 +117,8 @@ The project is currently in its initial research and documentation phase.
 
 Cybersecurity Researcher
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24327814.svg)](https://doi.org/10.5281/zenodo.24327814)
+
 GitHub: [HagerAymanSaper](https://github.com/HagerAymanSaper)
 
 ---
