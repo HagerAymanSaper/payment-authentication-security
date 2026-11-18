@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this research or its prototype, please cite it using the metadata below."
+title: "Beyond the OTP: Investigating Risk-Based Authentication and Security in Online Payment Systems"
+type: software
+authors:
+  - family-names: "Saper"
+    given-names: "Hager Ayman"
+    affiliation: "Arab Open University"
+    orcid: ""
+repository-code: "https://github.com/HagerAymanSaper/payment-authentication-security"
+abstract: "Research investigating risk-based authentication, EMV 3-D Secure, and security weaknesses in online payment authentication workflows."
+keywords:
+  - Cybersecurity
+  - Payment Security
+  - EMV 3-D Secure
+  - Risk-Based Authentication
+  - Authentication Security
+  - OTP
+license: MIT
+date-released: "2026-11-18"
